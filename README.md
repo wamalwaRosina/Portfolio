@@ -25,3 +25,4 @@ using the medical history of the patient.</li>
 <p>From the observation, many people are from the age of 55 to 60 are at a high risk of getting the heart disease compared to the younger ages.<p>
  
  <h4>Patients having High Blood Pressure on the basis of Sex.</h4>
+ ![](https://github.com/wamalwaRosina/Portfolio/blob/main/Images/boxplot1.png)
