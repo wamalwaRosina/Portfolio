@@ -10,3 +10,5 @@ using the medical history of the patient.</li>
 <li>Used different R programming libraries such as ggplot, corrplot, and Tidyverse which is R package for data science.</li>
 
  </ul>.
+ 
+ ![](https://github.com/wamalwaRosina/Portfolio/blob/main/Images/Bar%20Chart.png)
